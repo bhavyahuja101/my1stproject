@@ -2,4 +2,4 @@
 
 This is my first Python project 🚀
 <br>
-author - bhavya ahuja
+author - Bhavya Ahuja
