@@ -8,3 +8,10 @@ if ("make a lot of money" in a or
     print("This is a spam comment.")
 else:
     print("This is not a spam comment.")
+
+list = ["mohan" , "sohan" , "rohan"]    
+myname = input("enter your name")
+if myname in list :
+    print("you are selected")
+else:
+    print("you are not in list sadddd")    
